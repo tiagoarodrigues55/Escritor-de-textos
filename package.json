@@ -14,7 +14,7 @@
     "@google-cloud/translate": "^6.0.0",
     "algorithmia": "^0.3.10",
     "aylien_textapi": "^0.7.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "^0.0.1-security",
     "googleapis": "^39.2.0",
     "ibm-watson": "^5.6.0",
